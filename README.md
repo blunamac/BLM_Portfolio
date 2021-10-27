@@ -5,7 +5,7 @@ This is my portfolio for Telling Stories with Data at CMU!
 
 I'm a graduate student at CMU pursuing a Master of Science degree in public policy and management with a focus on health policy. In my spare time, I like cooking traditional Mexican dishes and catching up with friends and family.
  
-After having graduated with a bachelor’s degree in sociology from the University of California in Santa Cruz, I decided to move to Washington DC. Since the summer of 2016 I have worked across different national nonprofit organizations helping support their programmatic efforts. It wasn't until the past two years where I truly found my niche centering at the intersection of aging, race and equity.
+After having graduated with a bachelor’s degree in sociology from the University of California in Santa Cruz, I decided to move to Washington DC. Since the summer of 2016, I have worked across different national nonprofit organizations helping support their programmatic efforts. It wasn't until the past two years where I truly found my niche centering at the intersection of aging, race and equity.
 
 In the future, I seek to further cultivate the skills and knowledge needed to provide an influential perspective to better increase the understanding of the challenges and barriers impacting Hispanic older adults. I seek to enhance my analytical skills and ability to use data to support the development of a comprehensive narrative on the experiences of aging minority populations in America; a narrative that encourages the adaptation of programs and policies to increase service equity. I hope to be able to respond with certainty, one day, that our country is well equipped to help any older adult in need.
 
