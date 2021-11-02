@@ -7,3 +7,4 @@
 <div class="flourish-embed flourish-chart" data-src="visualisation/7700569"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## North American Countries vs. Average Organisation for Economic Co-operation and Development (OECD) Average
+<div class="flourish-embed flourish-chart" data-src="visualisation/7700738"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
