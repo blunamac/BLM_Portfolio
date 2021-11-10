@@ -10,4 +10,4 @@ I will scan my sketches in below:
 I initially thought I would be doing a side by side chart of two different vizualizations, but I was making it too complicated. .....more to come!
 
 I used tableau to make something simple to understand and something that reminds viewers at what examply these numbers mean. 
-<a href="https://ibb.co/fqYSNnQ"><img src="https://i.ibb.co/xXSsgf3/RateOD.jpg" alt="RateOD" border="0"></a>
+![alt text](https://i.ibb.co/xXSsgf3/RateOD.jpg)
