@@ -1,14 +1,17 @@
 # Black Americans are killed by law enforcement at disproportionate rates.
 
-I redesigned the following Washington Post data:
+## I redesigned the following Washington Post data:
 
 ![alt text](https://i.ibb.co/kmCXx51/Rate-redo-from-wp.png)
 
-I will scan my sketches in below:
+## My sketches:
 
 <a href="https://ibb.co/tYMbfJD"><img src="https://i.ibb.co/3Sy0XCc/Sketchrotated.jpg" alt="Sketchrotated" border="0"></a>
 
-I initially thought I would be doing a side by side chart of two different vizualizations, but I was making it too complicated. .....more to come!
+I initially thought I would be doing a side-by-side chart of two different visualizations, but I was making it too complicated. I received feedback from my sister and for one of my peers here at Heinz. I started out with the top right sketch. This was to make it easier to notice that bar width in the original image represented proportion of population. I decided to pull that out and to show it in a more obvious way. I also wanted to represent deaths per million in a different way then just bar height. I choose dots. I was having a hard time with this side of the visualization and folks were having a hard time reading what brackets corresponded to who. The consensus was that it looked messy, so I asked if the bottom left would be better. I thought if I went forward with this iteration, that I’d order the dots a little different with first row at the bottom because it was missing dots. The gist of it was there, but folks thought it could still be cleaner. The colors and the legend helped. The number of total dots vs. the original sketch helped so that we didn’t have to rely heavily on the brackets. There were improvements to be made. So, we landed on the bottom right sketch. This was simpler, more intuitive and better represents what these numbers means (lives lost). The population proportion is ordered and each stick figure represents I death per million. Spelled out like this, it is easy to see that Black individuals have more deaths per million, but come in 3rd in overall representation in population. The Washington Post image, I feel, muted the story a bit with bars and numbers. This made it easier for viewers to separate themselves from the loss of life that these numbers represent. The problem in the next phase of this project was how to make this with the tools introduced in this course.
 
-I used tableau to make something simple to understand and something that reminds viewers at what examply these numbers mean. 
+## My Remake: 
+
 ![alt text](https://i.ibb.co/xXSsgf3/RateOD.jpg)
+
+I used tableau to make something simple to understand and something that reminds viewers at what example these numbers mean. I had some trouble with tableau, but worked with it because I want to master it at some point in my life. The original data that the Washington Post provided readers with was in full and a bit too complex for me to figure out. I tried to make it work, but ultimately ended up making my own spreadsheet based on the numbers in the original rendering. This simplified the process substantially. I created my sketch almost exactly as I wanted it. I used muted colors for the other raced. I brought attention to the Black row. People can see right away that there are more deaths among that population than the others. I ordered based on population proportions. The hardest part here was getting the numbers of population proportion and deaths on the visualization. Tableau does not make this easy, so I found a work around that helped only for the number of deaths. I was able to annotate the numbers in, otherwise it would have shown underneath each person and that looked bad. I also made it a priority to include a time frame in this, something that was missing in the original visualization. I would’ve liked to condense this a bit to get rid of some white space, but that was tricky to figure out without messing up everything else.  Overall, I am happy with this. Folks can right away see this and know that Black Americans die at disproportionate rates because of policing. 
