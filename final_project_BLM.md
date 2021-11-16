@@ -1,7 +1,7 @@
 # Hispanic Aging Population and the Aging Network
 
 ## Outline: 
-Summary: 
+**Summary:**
 The growing Hispanic older adult population will require additional services and supports to age with dignity, safety and comfort. 
 
 Setup:
