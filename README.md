@@ -24,6 +24,6 @@ With the help and guidance of Professor Goranson, I hope to accomplish a great d
 Coming soon...
 
 #### Final Project:
-[name test test]final_project_BLM
+[name test test](final_project_BLM)
 
 Coming soon...
