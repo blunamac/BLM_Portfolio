@@ -24,5 +24,5 @@ With the help and guidance of Professor Goranson, I hope to accomplish a great d
 Coming soon...
 
 #### Final Project:
-[Hispanic Aging Population and the Aging Network](final_project_BLM)
+[Hispanic Aging Population and the Aging Network](https://blunamac.github.io/BLM_Portfolio/final_project_BLM)
 
