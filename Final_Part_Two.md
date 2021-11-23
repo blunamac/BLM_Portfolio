@@ -11,5 +11,10 @@
 ![alt text](https://i.ibb.co/5KMHJfh/projected-pop.jpg)
 
 ## The Hispanic population have a long history of being lower income.
-![alt text](https://i.ibb.co/z2PppXN/houshold-income.jpg" alt="houshold-income)
+![alt text](https://i.ibb.co/z2PppXN/houshold-income.jpg)
 
+## Within this demographic there is a gender pay gap. 
+![alt text](https://i.ibb.co/30KrbDC/IMG-0308.jpg)
+
+## Unpaid labor in the form of careing for an older adult adds up when household median income is $38,600. 
+![alt text](https://i.ibb.co/MkJKtNr/Unpaid-labor.jpg)
