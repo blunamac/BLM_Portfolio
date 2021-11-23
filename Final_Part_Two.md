@@ -39,5 +39,6 @@ In reviewing part one, I made some changes to better refine my final project. I 
 
 First, I intend to set the scene with some basic demographic data. Looking at population growth over the years, state distribution and projections on Hispanic older adults future population growth. 
 
-** Population growth as a line graph using Flourish: **
-	[Data](https://www.census.gov/data/tables/2017/demo/popproj/2017-summary-tables.html)
+**Population growth as a line graph using Flourish:**
+
+[Data](https://www.census.gov/data/tables/2017/demo/popproj/2017-summary-tables.html)
