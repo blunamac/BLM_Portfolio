@@ -20,7 +20,7 @@
 ![alt text](https://i.ibb.co/MkJKtNr/Unpaid-labor.jpg)
 
 ## Within this demographic there is a gender pay gap. 
-![alt text](https://i.ibb.co/30KrbDC/IMG-0308.jpg)
+![alt text](https://i.ibb.co/ryY5TdG/gender-pay.jpg)
 
 ## Retirement Wealth 
 --image coming soon--
