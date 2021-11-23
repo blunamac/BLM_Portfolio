@@ -80,3 +80,23 @@ Then I will take viewers through the conflict. I am trying to build a case for t
 **Undocumented immigrant share single bar chart using Tableau:**
 
 [Data](http://madreanna.org/immref/pew/107Full.pdf)
+
+**Why does it matter to my audience?**
+My audience for this project is policy and management students. I want folks to be able to use their sociological imagination when trying to understand/ make policy. We must be able to tap into a critical race perspective or take on a feminist perspective and apply them to these kind of ‘universal’ policy topics to see the layers of inequity in them. We are all going to age and for some its going to look a lot different. My ask is for folks to commit to thinking critically about aging policy and for them to see its intersectionality. I want folks to begin to scratch their heads at social issues and begin to imagine the layers beneath. 
+
+**Method and Medium**
+To complete this assignment, I will use a combination of tools we learned in this course. I will use tableau to complete the choropleth map portion of this assignment. We did a similar exercise in class and I feel good about being able to pull the data set I have into Tableau to create my vision. For most of the line graphs, I will use flourish. This will make it easier since Tableau can be a bit tricky. For the median income level over time, I will add a slider option to add the overall median income level over time. In Tableau, I will visualize the bar charts I have planned. I will also use Tableau to create a pictogram bar chart for the ‘unpaid labor for care’ chart. I will try to see if there is a nice template on Flourish for this, but if not, I will most likely use Tableau. For the wage gap visualization and the unpaid labor visualization, I will use canvas. I like this platform and have used it before. This would be the best platform to make these on since they’re more pictogram style visualizations. I can use some of their free images to recreate my sketches.
+
+**User Research Protocol**
+My audience for this project is policy and management students. I want folks to be able to use their sociological imagination when trying to understand/ make policy. We must be able to tap into a critical race perspective or take on a feminist perspective and apply them to these kind of ‘universal’ policy topics to see the layers of inequity in them. We are all going to age and for some its going to look a lot different. My ask is for folks to commit to thinking critically about aging policy and for them to see its intersectionality. I want folks to begin to scratch their heads at social issues and begin to imagine the layers beneath. 
+To reach my target population, I will ask folks for interviews in the HBH cafeteria. This area is frequented by fellow Heinzers who are currently studying policy at CMU. 
+
+**interview script**
+*Hey, 
+My name is Brenda Luna Macedo. I am a second year MSPPM student here at Heinz. We’ve probably ran into each other while eating lunch and doing homework in the study rooms here around the corner. I was wondering if I could tell you a story through pictures and perhaps get some feedback? We could do this while you eat if you’d like. This is for a class of mine and shouldn’t take more than 10 minutes of your time. 
+-tell story-
+How compelling was my story telling and where could there be room for improvement in terms of the narrated portion?
+How understandable would you rate the images? Was there any that stood out for good or bad reasons? Please provide details.
+Were the captions of the images helpful or in need of revision for clarity?
+Did the order of the story make sense or is there room for reworking?*
+
