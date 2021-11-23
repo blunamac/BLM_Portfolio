@@ -27,7 +27,7 @@
 --image coming soon--
 
 ## Hispanics make up the largest share of undocumented immigrants 
-This excludes them from any entitlement programs like Social Security, Medicare and Medicaid. These are vital parts of our social safety net in old age. 
+This excludes them from any entitlement programs like Social Security, Medicare and Medicaid. These are vital parts of our social safety net in old age.  <br /> 
 ![alt text](https://i.ibb.co/30KrbDC/IMG-0308.jpg)
 
 In conclusion, this demographic needs greater considerations for policy measures that aim at alleviating uncertainty for them and their families as they enter the golden age. As future policy makers, I ask that you consider the layers of inequity behind policies that are framed as universal. 
@@ -81,10 +81,10 @@ Then I will take viewers through the conflict. I am trying to build a case for t
 
 [Data](http://madreanna.org/immref/pew/107Full.pdf)
 
-**Why does it matter to my audience?**
+**Why does it matter to my audience?** <br /> 
 My audience for this project is policy and management students. I want folks to be able to use their sociological imagination when trying to understand/ make policy. We must be able to tap into a critical race perspective or take on a feminist perspective and apply them to these kind of ‘universal’ policy topics to see the layers of inequity in them. We are all going to age and for some its going to look a lot different. My ask is for folks to commit to thinking critically about aging policy and for them to see its intersectionality. I want folks to begin to scratch their heads at social issues and begin to imagine the layers beneath. 
 
-**Method and Medium**
+**Method and Medium** <br /> 
 To complete this assignment, I will use a combination of tools we learned in this course. I will use tableau to complete the choropleth map portion of this assignment. We did a similar exercise in class and I feel good about being able to pull the data set I have into Tableau to create my vision. For most of the line graphs, I will use flourish. This will make it easier since Tableau can be a bit tricky. For the median income level over time, I will add a slider option to add the overall median income level over time. In Tableau, I will visualize the bar charts I have planned. I will also use Tableau to create a pictogram bar chart for the ‘unpaid labor for care’ chart. I will try to see if there is a nice template on Flourish for this, but if not, I will most likely use Tableau. For the wage gap visualization and the unpaid labor visualization, I will use canvas. I like this platform and have used it before. This would be the best platform to make these on since they’re more pictogram style visualizations. I can use some of their free images to recreate my sketches.
 
 **User Research Protocol** <br /> 
