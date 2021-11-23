@@ -100,3 +100,23 @@ How understandable would you rate the images? Was there any that stood out for g
 Were the captions of the images helpful or in need of revision for clarity?
 Did the order of the story make sense or is there room for reworking?*
 
+### Findings:
+How compelling was my story telling and where could there be room for improvement in terms of the narrated portion?
+Person 1:  Did not know anything about my topic before speaking. Work on transitions. Compelling, but tie it together so people like him can follow. 
+Person 2: Speak slower. My interest in the topic makes her interested. Try having notes on hand or practice your flow better. Story is interesting.
+Person 3: This person was confused and needed for me to go through it again. They got it the second time. Interesting story, but needs work in delivery because there are international students who don’t know U.S.  <br /> 
+How understandable would you rate the images? Was there any that stood out for good or bad reasons? Please provide details.
+Person 1: Once done, they will be good. They help with the story. Unpaid labor needs more to understand it better. Hispanic share of undocumented immigrants stood out.
+Person 2: Projected population growth is good. Are numbers right? Unpaid labor could be better to understand. Looks like people are being sold for a bag of money. The fact it wants to show is compelling.
+Person 3: Clearer second time around because needed to understand context. Liked the density map. Maybe explain why people live in those states. Trouble understanding the unpaid labor hours one. Picture is not clear to quickly understand. <br /> 
+Were the captions of the images helpful or in need of revision for clarity?
+Person 1: Unpaid labor. Fine tune it by changing words to visual. 
+Person 2: Projected population, explain the percentages. Unpaid labor image, maybe more text can help.
+Person 3: Hispanics from where? This can help people understand what Hispanic means. Work on unpaid labor and write in a sentence for density map. <br /> 
+Did the order of the story make sense or is there room for reworking?
+Person 1: Order is fine. 
+Person 2: Placing projected population growth at the end can make everything before it even more shocking, but ok the way it is now. 
+Person 3: Order works as is, bring the context in captions or when speaking.  <br /> 
+
+### Changes to be made:
+Finish up last two sketches on Hispanic population growth and retirement wealth. I presented without and folks seemed to still understand, but I feel like it would be more compelling to add that additional line graph and bar chart. I need to rework some captions on the percentages in population growth, unpaid labor and consider adding what Hispanic entails in the undocumented immigrants visualization. The biggest thing I must do is rework the unpaid labor hours image. It was misleading and not very clear to folks. I need to look at how others have visualized things similar to this and work it out into my image. I’m leaning to make a single bar chart representing total median income and overlaying the value of those hours would be over the course of one year. This will better lay out the opportunity cost. Folks give up making this amount because they need to care for older adults at home. This image takes so much context to explain and now I’m understanding why the report I pulled these stats from didn’t create an image for it. Its so layered. The last thing I must do is slow down when speaking and have clear talking points. I’m going to narrow down exactly what I will touch on for my presentation and practice for this. I get a bit excited when speaking about this that I almost skip over things. 
