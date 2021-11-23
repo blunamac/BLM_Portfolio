@@ -18,3 +18,15 @@
 
 ## Unpaid labor in the form of careing for an older adult adds up when household median income is $38,600. 
 ![alt text](https://i.ibb.co/MkJKtNr/Unpaid-labor.jpg)
+
+## Within this demographic there is a gender pay gap. 
+![alt text](https://i.ibb.co/30KrbDC/IMG-0308.jpg)
+
+## Retirement Wealth 
+--image coming soon--
+
+## Hispanics make up the largest share of undocumented immigrants 
+This excludes them from any entitlement programs like Social Security, Medicare and Medicaid. These are vital parts of our social safety net in old age. 
+![alt text](https://i.ibb.co/30KrbDC/IMG-0308.jpg)
+
+In conclusion, this demographic needs greater considerations for policy measures that aim at alleviating uncertainty for them and their families as they enter the golden age. As future policy makers, I ask that you consider the layers of inequity behind policies that are framed as universal. 
