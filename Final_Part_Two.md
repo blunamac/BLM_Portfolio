@@ -53,3 +53,30 @@ First, I intend to set the scene with some basic demographic data. Looking at po
 
 [Data](https://acl.gov/sites/default/files/Aging%20and%20Disability%20in%20America/2018HA_OAProfile.pdf)
 
+
+Then I will take viewers through the conflict. I am trying to build a case for this through the visualization, so then folks will come to realize that there are problems in aging that this community faces. Together, we will filter through the layers of inequity these folks face by highlighting gender pay gap and how that could rolls over into lower retirement wealth. The cherry on top is the fact that Hispanics make up the largest share of undocumented immigrants in the U.S. 
+
+
+**Income level as a bar chart using (adding a slider to activate the overall median) Flourish:**
+
+[Data](https://www.census.gov/library/publications/2021/demo/p60-273.html)
+
+
+**Pay gap as a pictogram/single bar chart hybrid using canvas:**
+
+[Data](http://www.equalpaytoday.org/latina-equal-pay-day-2021)
+
+
+**Unpaid labor in form of care as a pictogram using Tableau/ Canvas:**
+
+[Data](http://www.nhcoa.org/wp-content/uploads/2017/04/Final-Proceedings-Caregiving-Thought-Leaders-Roundtable-Washington-DC-1.pdf)
+
+
+**Retirement wealth bar chart using Tableau:**
+
+[Data](https://www.nytimes.com/2020/08/14/business/retirement-inequality-racism.html)
+
+
+**Undocumented immigrant share single bar chart using Tableau:**
+
+[Data](http://madreanna.org/immref/pew/107Full.pdf)
