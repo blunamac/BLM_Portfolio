@@ -6,6 +6,7 @@
 
 ## State Population Density 
 ![alt text](https://i.ibb.co/Sctmdrk/Hisp-density.png)
+(Preliminary rendering from U.S. Cencus Bureau- darker shading signals denser population of Hispanics.)
 
 ## Projected Population Growth Over the Next 40 Years 
 ![alt text](https://i.ibb.co/5KMHJfh/projected-pop.jpg)
