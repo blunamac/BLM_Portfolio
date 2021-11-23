@@ -26,6 +26,6 @@ Coming soon...
 #### Final Project Part one:
 [Hispanic Aging Population and the Aging Network](https://blunamac.github.io/BLM_Portfolio/final_project_BLM)
 
-Final Project Part 2:
+#### Final Project Part 2:
 [Hispanic Aging Population](https://blunamac.github.io/BLM_Portfolio/Final_Part_Two)
 
