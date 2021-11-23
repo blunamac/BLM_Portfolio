@@ -31,3 +31,13 @@ This excludes them from any entitlement programs like Social Security, Medicare 
 ![alt text](https://i.ibb.co/30KrbDC/IMG-0308.jpg)
 
 In conclusion, this demographic needs greater considerations for policy measures that aim at alleviating uncertainty for them and their families as they enter the golden age. As future policy makers, I ask that you consider the layers of inequity behind policies that are framed as universal. 
+
+
+
+### Write-up
+In reviewing part one, I made some changes to better refine my final project. I want to look at aging policy, zoom into the Hispanic population and tell the story of the unique barriers this population faces when it comes to aging in the U.S. 
+
+First, I intend to set the scene with some basic demographic data. Looking at population growth over the years, state distribution and projections on Hispanic older adults future population growth. 
+
+** Population growth as a line graph using Flourish: **
+	[Data](https://www.census.gov/data/tables/2017/demo/popproj/2017-summary-tables.html)
