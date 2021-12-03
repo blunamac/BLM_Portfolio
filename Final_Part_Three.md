@@ -23,3 +23,16 @@ One thing the other versions of my project was missing was a strong call to acti
 
 **Shorthand** <br /> 
 [Hispanic Aging Population: The Case for Policy Considerations](https://carnegiemellon.shorthandstories.com/hispanic-aging-population/index.html)
+
+<br /> 
+**Script**<br /> 
+So lets talk aging, lets look at some structural inequities that will make it tough on folks to enter the golden age with comfort.
+ For this, I wanted to focus on the Hispanic population.
+This community is made up of low-income, working class individuals.
+ To make things worse, Hispanic women are valued way less for their work.
+We know that caring for an older adult comes with a great opportunity cost and this community feels it a higher degree. 
+This all accumulates to this population being at the highest risk when it comes to financial security in old age. 
+To add fuel to the fire, Hispanics make up the largest share of undocumented immigrants. For these folks, there is no safety net. 
+All this matters because the Hispanic older adult population is growing. It is essential that we consider this community’s unique circumstances and in anticipation, proactively create equitable policy change.
+ What I ask for folks to do today is to help tackle the greatest challenge this community faces, immigration reform. Visit UnitedWeDream.org today and donate. Let’s help deliver a dignified golden age for everyone.
+
