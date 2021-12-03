@@ -19,3 +19,7 @@ The projected population growth of Hispanic older adults was made on canva. It w
 
  The way that I laid out my story from one visualization to another was to build on the conflict. I needed to make my value proposition to my audience, as to convince them that something must me done sooner rather than later. I want to concern readers, without being overly dramatic and grim. I think I did this well. 
 One thing the other versions of my project was missing was a strong call to action. I really wanted folks to start thinking of how aging policy is incredibly intersectional. I wanted to bring home the fact that social programs are deceivingly passed on as universal, when they’re not. It wouldn’t have been enough to ask folks to start thinking about these things differently. It wouldn’t be enough to ask folks to believe that aging is the underground revolution and for us to start making it a hot issue. This wouldn’t have been actionable enough, so I decided to ask folks to help tackle the most challenging hardship the aging Hispanic population has right now: immigration reform. This has been highly debated for years and it will take a lot for things to change. I wanted to ask folks to help out with donations to a national advocacy group to supplement the momentum they’ve had.  <br /> 
+
+
+**Shorthand** <br /> 
+[Hispanic Aging Population: The Case for Policy Considerations](https://carnegiemellon.shorthandstories.com/hispanic-aging-population/index.html)
