@@ -15,13 +15,13 @@ With the help and guidance of Professor Goranson, I hope to accomplish a great d
 
 ### Portfolio:
 
-#### In Class Exercise: King County Cumulative Case Counts (Feb 28 - April 12th)
- 
-<div class="flourish-embed flourish-chart" data-src="visualisation/7642597"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 
 #### Assignment: Visualizing Government Debt
+[North American Countries of Canada, United States and Mexico](https://blunamac.github.io/BLM_Portfolio/dataviz2)
 
-Coming soon...
+#### Assignment: Critique by Design
+[Black Americans are killed by law enforcement at disproportionate rates](https://blunamac.github.io/BLM_Portfolio/dataviz3)
 
 #### Final Project Part one:
 [Hispanic Aging Population and the Aging Network](https://blunamac.github.io/BLM_Portfolio/final_project_BLM)
