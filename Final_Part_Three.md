@@ -1,3 +1,4 @@
+## Final Project Write-up & Reflection:
 In putting together my shorthand page, I was able to formulate a story that I am proud of. I was so passionate about this topic, that my initial webpage language was starting to sound a little too poetic. In better understanding my audience, I knew I needed to move away from this and take a bit of a different tone. I started out my story by laying down some foundational background information. From the feedback I received from my peers, I was able to see that not many folks are completely familiar with my topic. In doing this, I included some basic facts and an introduction to the issue at hand. I wanted avoid pointing folks in too many directions by including visualized statistics on Hispanic population growth and state population density. I’d initially intended to add these to further supplement the background information portion of my story, but I didn’t want to pull away from the topic of aging. To better condense this and avoid confusion from going to far off topic, I instead called out the total Hispanic population statistic. I gave this its own section. It was nice, simple and more concise than what I’d initially had planned.  <br /> 
 
 
@@ -44,3 +45,4 @@ All this matters because the Hispanic older adult population is growing. It is e
 
 What I ask for folks to do today is to help tackle the greatest challenge this community faces, immigration reform. Visit UnitedWeDream.org today and donate. Let’s help deliver a dignified golden age for everyone.
 
+[Portfolio Home](https://blunamac.github.io/BLM_Portfolio/) | [Final Project](https://carnegiemellon.shorthandstories.com/hispanic-aging-population/index.html)
