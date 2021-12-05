@@ -2,10 +2,10 @@
 
 
 ## Hispanic Population Growth
---image coming soon--
+Called out larger text.
 
 ## State Population Density 
-![alt text](https://i.ibb.co/Sctmdrk/Hisp-density.png)
+![alt text](https://i.ibb.co/Sctmdrk/Hisp-density.png)  <br />   <br /> 
 (Preliminary rendering from U.S. Cencus Bureau- darker shading signals denser population of Hispanics.)
 
 ## Projected Population Growth Over the Next 40 Years 
@@ -21,7 +21,7 @@
 ![alt text](https://i.ibb.co/MkJKtNr/Unpaid-labor.jpg)
 
 ## Retirement Wealth 
---image coming soon--
+Bar Chart 
 
 ## Hispanics make up the largest share of undocumented immigrants 
 This excludes them from any entitlement programs like Social Security, Medicare and Medicaid. These are vital parts of our social safety net in old age.  <br /> 
@@ -120,3 +120,6 @@ Person 3: Order works as is, bring the context in captions or when speaking.  <b
 
 ### Changes to be made:
 Finish up last two sketches on Hispanic population growth and retirement wealth. I presented without and folks seemed to still understand, but I feel like it would be more compelling to add that additional line graph and bar chart. I need to rework some captions on the percentages in population growth, unpaid labor and consider adding what Hispanic entails in the undocumented immigrants visualization. The biggest thing I must do is rework the unpaid labor hours image. It was misleading and not very clear to folks. I need to look at how others have visualized things similar to this and work it out into my image. I’m leaning to make a single bar chart representing total median income and overlaying the value of those hours would be over the course of one year. This will better lay out the opportunity cost. Folks give up making this amount because they need to care for older adults at home. This image takes so much context to explain and now I’m understanding why the report I pulled these stats from didn’t create an image for it. Its so layered. The last thing I must do is slow down when speaking and have clear talking points. I’m going to narrow down exactly what I will touch on for my presentation and practice for this. I get a bit excited when speaking about this that I almost skip over things. 
+
+[Portfolio Home](https://blunamac.github.io/BLM_Portfolio/) | [Next Page](https://blunamac.github.io/BLM_Portfolio/Final_Part_Three)
+
